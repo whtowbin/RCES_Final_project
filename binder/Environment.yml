@@ -1,5 +1,5 @@
 :::yaml
-    name: RCES Final
+    name: RCES_Final
     channels:
         - conda-forge
         - defaults
@@ -31,3 +31,5 @@
         - numcodecs     # Compression library used by zarr
         - gcsfs         # Access data from Google Cloud Storage
         - s3fs          # Access data from Amazon S3
+
+
