@@ -7,3 +7,4 @@ The rows are each one timestep and the columns are in counts per second for each
 
 
  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/whtowbin/RCES_Final_project/master)
