@@ -1,0 +1,8 @@
+SampleLabel,Window name,Bk_min,Bk_max,Peak min,peak max
+GCB 1AHT ol1,,65000, 125000,,
+GCB 1AHT ol1_part 2,,65000, 85000,,
+GCB 1AHT ol6,,60000, 260000,,
+GCB Scoria ol6,,65000, 185000,,
+bhvo-1,,60000,115000,,
+bir-1,,60000,115000,,
+sc ol 1,,65000, 115000,,
